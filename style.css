@@ -1,0 +1,33 @@
+.traditional-dresses img {
+  width: 40%;
+
+  margin-top: -5px;
+  background-repeat: no-repeat;
+}
+
+.tradition img {
+  width: 50%;
+}
+
+.body {
+  width: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+.heading {
+  color: rgb(161, 52, 164);
+  background-color: pink;
+  text-align: center;
+}
+
+.paragraph {
+  text-align: center;
+  font-size: x-large;
+  border: solid white 3px;
+  border-radius: 30px;
+  background-color: pink;
+}
+
+/* ========== RESPONSIVE LAYOUT ========== */
